@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/mahesh11-dev/LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/mahesh11-dev/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/mahesh11-dev/LeetCode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mahesh11-dev/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/mahesh11-dev/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/mahesh11-dev/LeetCode/tree/master/0268-missing-number) |
@@ -41,5 +42,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/mahesh11-dev/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/mahesh11-dev/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
