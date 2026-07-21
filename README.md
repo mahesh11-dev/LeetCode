@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mahesh11-dev/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/mahesh11-dev/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/mahesh11-dev/LeetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/mahesh11-dev/LeetCode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/mahesh11-dev/LeetCode/tree/master/0075-sort-colors) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/mahesh11-dev/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/mahesh11-dev/LeetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/mahesh11-dev/LeetCode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/mahesh11-dev/LeetCode/tree/master/0075-sort-colors) |
@@ -52,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/mahesh11-dev/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/mahesh11-dev/LeetCode/tree/master/0268-missing-number) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/mahesh11-dev/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
