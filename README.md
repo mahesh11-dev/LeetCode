@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/mahesh11-dev/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/mahesh11-dev/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/mahesh11-dev/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0628-maximum-product-of-three-numbers](https://github.com/mahesh11-dev/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/mahesh11-dev/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/mahesh11-dev/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/mahesh11-dev/LeetCode/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/mahesh11-dev/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/mahesh11-dev/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
 |  |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/mahesh11-dev/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/mahesh11-dev/LeetCode/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/mahesh11-dev/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/mahesh11-dev/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Hash Table
 |  |
