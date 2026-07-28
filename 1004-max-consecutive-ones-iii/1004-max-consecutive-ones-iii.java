@@ -8,12 +8,15 @@ class Solution {
             if(nums[j] == 0){
                 count++;
             }
-            while(count > k){
-                if(nums[i] == 0)
+            if(count > k){
+                if(nums[i] == 0){
                     count--;
+                }
                 i++;
             }
-            maxLen = Math.max(maxLen, j-i+1);
+            if(count <= k){
+                maxLen = Math.max(maxLen, j-i+1);
+            }
         }
         return maxLen;
     }
