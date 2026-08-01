@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/mahesh11-dev/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/mahesh11-dev/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/mahesh11-dev/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/mahesh11-dev/LeetCode/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/mahesh11-dev/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mahesh11-dev/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/mahesh11-dev/LeetCode/tree/master/0713-subarray-product-less-than-k) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/mahesh11-dev/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/mahesh11-dev/LeetCode/tree/master/0268-missing-number) |
+| [0486-predict-the-winner](https://github.com/mahesh11-dev/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mahesh11-dev/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/mahesh11-dev/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Hash Table
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/mahesh11-dev/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/mahesh11-dev/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mahesh11-dev/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0486-predict-the-winner](https://github.com/mahesh11-dev/LeetCode/tree/master/0486-predict-the-winner) |
 ## Stack
 |  |
 | ------- |
@@ -137,4 +140,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/mahesh11-dev/LeetCode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/mahesh11-dev/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1991-find-the-middle-index-in-array](https://github.com/mahesh11-dev/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/mahesh11-dev/LeetCode/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/mahesh11-dev/LeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
