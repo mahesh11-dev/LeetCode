@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/mahesh11-dev/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/mahesh11-dev/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/mahesh11-dev/LeetCode/tree/master/0724-find-pivot-index) |
+| [0877-stone-game](https://github.com/mahesh11-dev/LeetCode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/mahesh11-dev/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/mahesh11-dev/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/mahesh11-dev/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/mahesh11-dev/LeetCode/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/mahesh11-dev/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mahesh11-dev/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/mahesh11-dev/LeetCode/tree/master/0877-stone-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/mahesh11-dev/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Hash Table
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/mahesh11-dev/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mahesh11-dev/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/mahesh11-dev/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/mahesh11-dev/LeetCode/tree/master/0877-stone-game) |
 ## Stack
 |  |
 | ------- |
@@ -150,4 +153,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/mahesh11-dev/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/mahesh11-dev/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
