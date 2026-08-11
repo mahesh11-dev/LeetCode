@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/mahesh11-dev/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/mahesh11-dev/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/mahesh11-dev/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/mahesh11-dev/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/mahesh11-dev/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/mahesh11-dev/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mahesh11-dev/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/mahesh11-dev/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/mahesh11-dev/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/mahesh11-dev/LeetCode/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/mahesh11-dev/LeetCode/tree/master/0486-predict-the-winner) |
@@ -267,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/mahesh11-dev/LeetCode/tree/master/1510-stone-game-iv) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/mahesh11-dev/LeetCode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
