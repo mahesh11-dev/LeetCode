@@ -25,6 +25,12 @@ class Solution {
         for(int i=0; i<arr1.size(); i++){
             ans[idx++] = arr1.get(i);
         }
+        //for(int x : arr1){
+        //    nums[idx++] = x;
+        //}
+        //for(int x : arr2){
+        //    nums[idx++] = x;
+        //}
         for(int i=0; i<arr2.size(); i++){
             ans[idx++] = arr2.get(i);
         }
