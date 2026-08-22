@@ -9,7 +9,8 @@ class Solution {
             product *= lastDigit;
             x /= 10;
         }
-        if(n % (sum + product) == 0){
+        int result = sum + product;
+        if(n % result == 0){
             return true;
         }
         return false;
