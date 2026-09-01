@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/mahesh11-dev/LeetCode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/mahesh11-dev/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/mahesh11-dev/LeetCode/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/mahesh11-dev/LeetCode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/mahesh11-dev/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/mahesh11-dev/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/mahesh11-dev/LeetCode/tree/master/0053-maximum-subarray) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/mahesh11-dev/LeetCode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mahesh11-dev/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/mahesh11-dev/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/mahesh11-dev/LeetCode/tree/master/0268-missing-number) |
