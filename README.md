@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/mahesh11-dev/LeetCode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mahesh11-dev/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/mahesh11-dev/LeetCode/tree/master/1563-stone-game-v) |
+| [1572-matrix-diagonal-sum](https://github.com/mahesh11-dev/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/mahesh11-dev/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1872-stone-game-viii](https://github.com/mahesh11-dev/LeetCode/tree/master/1872-stone-game-viii) |
 | [1991-find-the-middle-index-in-array](https://github.com/mahesh11-dev/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/mahesh11-dev/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/mahesh11-dev/LeetCode/tree/master/0054-spiral-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/mahesh11-dev/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
