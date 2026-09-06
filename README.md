@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/mahesh11-dev/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/mahesh11-dev/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/mahesh11-dev/LeetCode/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/mahesh11-dev/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/mahesh11-dev/LeetCode/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/mahesh11-dev/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/mahesh11-dev/LeetCode/tree/master/0509-fibonacci-number) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/mahesh11-dev/LeetCode/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/mahesh11-dev/LeetCode/tree/master/0258-add-digits) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mahesh11-dev/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mahesh11-dev/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## String
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/mahesh11-dev/LeetCode/tree/master/0258-add-digits) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mahesh11-dev/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mahesh11-dev/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Union-Find
