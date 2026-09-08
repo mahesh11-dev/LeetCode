@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/mahesh11-dev/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/mahesh11-dev/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/mahesh11-dev/LeetCode/tree/master/1140-stone-game-ii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mahesh11-dev/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/mahesh11-dev/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/mahesh11-dev/LeetCode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mahesh11-dev/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/mahesh11-dev/LeetCode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/mahesh11-dev/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/mahesh11-dev/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mahesh11-dev/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mahesh11-dev/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Math
 |  |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/mahesh11-dev/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/mahesh11-dev/LeetCode/tree/master/0054-spiral-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mahesh11-dev/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/mahesh11-dev/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
