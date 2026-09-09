@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/mahesh11-dev/LeetCode/tree/master/0058-length-of-last-word) |
 | [1927-sum-game](https://github.com/mahesh11-dev/LeetCode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mahesh11-dev/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mahesh11-dev/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
