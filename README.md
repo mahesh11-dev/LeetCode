@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/mahesh11-dev/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mahesh11-dev/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mahesh11-dev/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/mahesh11-dev/LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mahesh11-dev/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mahesh11-dev/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mahesh11-dev/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/mahesh11-dev/LeetCode/tree/master/0229-majority-element-ii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/mahesh11-dev/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [2029-stone-game-ix](https://github.com/mahesh11-dev/LeetCode/tree/master/2029-stone-game-ix) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/mahesh11-dev/LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mahesh11-dev/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Heap (Priority Queue)
 |  |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/mahesh11-dev/LeetCode/tree/master/0058-length-of-last-word) |
 | [1927-sum-game](https://github.com/mahesh11-dev/LeetCode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mahesh11-dev/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/mahesh11-dev/LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mahesh11-dev/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mahesh11-dev/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mahesh11-dev/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
