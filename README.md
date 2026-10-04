@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/mahesh11-dev/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/mahesh11-dev/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/mahesh11-dev/LeetCode/tree/master/0509-fibonacci-number) |
 ## Game Theory
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/mahesh11-dev/LeetCode/tree/master/0206-reverse-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/mahesh11-dev/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Memoization
 |  |
