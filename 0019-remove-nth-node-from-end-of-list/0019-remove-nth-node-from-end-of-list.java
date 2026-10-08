@@ -13,28 +13,21 @@ class Solution {
         if(head.next == null && n == 1){
             return null;
         }
-        ListNode temp = head;
-        int count = 0;
-        while(temp != null){
-            count++;
-            temp = temp.next;
+        ListNode fast = head;
+        for(int i=0; i<n; i++){
+            fast = fast.next;
         }
-        int targetPrev = count - n;
-        if(targetPrev == 0 && head.next != null){
-            ListNode deleting = head;
+        if(fast == null){
             head = head.next;
-            deleting.next = null;
             return head;
         }
-        temp = head;
-        count = 0;
-        while(temp != null){
-            count++;
-            if(count == targetPrev){
-                temp.next = temp.next.next;
-            }
-            temp = temp.next;
+        ListNode slow = head;
+        while(fast.next != null){
+            slow = slow.next;
+            fast = fast.next;
         }
+        
+        slow.next = slow.next.next;
         return head;
     }
 }
