@@ -19,10 +19,8 @@ class Solution {
             count++;
             temp = temp.next;
         }
-        while(k > count){
-            k = k - count;
-        }
-        if(k == count){
+        k = k % count;
+        if(k == 0){
             return head;
         }
         ListNode fast = head;
