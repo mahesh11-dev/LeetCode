@@ -9,23 +9,47 @@
  * }
  */
 class Solution {
+    private ListNode merge(ListNode head1, ListNode head2){
+        ListNode temp1 = head1;
+        ListNode temp2 = head2;
+        ListNode dummy = new ListNode(-1);
+        ListNode curr = dummy;
+        while(temp1 != null && temp2 != null){
+            if(temp1.val < temp2.val){
+                curr.next = temp1;
+                temp1 = temp1.next;
+                curr = curr.next;
+            }else{
+                curr.next = temp2;
+                temp2 = temp2.next;
+                curr = curr.next;
+            }
+        }
+        if(temp1 != null){
+            curr.next = temp1;
+        }else if(temp2 != null){
+            curr.next = temp2;
+        }
+        return dummy.next;
+    }
+    private ListNode sort(ListNode head){
+        if(head.next == null){
+            return head;
+        }
+        ListNode fast = head;
+        ListNode slow = head;
+        while(fast.next != null && fast.next.next != null){
+            fast = fast.next.next;
+            slow = slow.next;
+        }
+        ListNode newHead = slow.next;
+        slow.next = null;
+        return merge(sort(head),sort(newHead));
+    }
     public ListNode sortList(ListNode head) {
         if(head == null || head.next == null){
             return head;
         }
-        ListNode temp = head;
-        ArrayList<Integer> list = new ArrayList<>();
-        while(temp != null){
-            list.add(temp.val);
-            temp = temp.next;
-        }
-        Collections.sort(list);
-        temp = head;
-        int i = 0;
-        while(temp != null){
-            temp.val = list.get(i++);
-            temp = temp.next;
-        }
-        return head;
+        return sort(head);
     }
 }
