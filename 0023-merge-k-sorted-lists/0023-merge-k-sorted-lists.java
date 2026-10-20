@@ -32,15 +32,17 @@ class Solution {
         }
         return dummy.next;
     }
+    private ListNode mergeSort(ListNode[] lists, int low, int high){
+        if(low == high){ 
+            return lists[low];
+        }
+        int mid = (low + high)/2;
+        return mergeLL(mergeSort(lists, low, mid), mergeSort(lists, mid+1, high));
+    }
     public ListNode mergeKLists(ListNode[] lists) {
         if(lists.length == 0){
             return null;
         }
-        ListNode temp1 = lists[0];
-        for(int i=1; i<lists.length; i++){
-            ListNode temp2 = lists[i];
-            temp1 = mergeLL(temp1, temp2);
-        }
-        return temp1;
+        return mergeSort(lists, 0, lists.length-1);
     }
 }
