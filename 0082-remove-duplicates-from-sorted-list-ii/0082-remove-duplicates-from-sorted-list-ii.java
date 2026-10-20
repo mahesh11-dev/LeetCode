@@ -14,27 +14,22 @@ class Solution {
             return head;
         }
         
-        ListNode prev = head;
-        ListNode temp = head.next;
+        //ListNode prev = head;
+        ListNode temp = head;
         ListNode dummy = new ListNode(-1);
         ListNode curr = dummy;
+        dummy.next = head;
         while(temp != null){
-            if(temp.val == prev.val){
-                while(temp != null && prev.val == temp.val){
+            if(temp.next != null && temp.val == temp.next.val){
+                while(temp.next != null && temp.val == temp.next.val){
                     temp = temp.next;
                 }
-                prev = temp;
-                if(temp != null){
-                    temp = temp.next;
-                }
+                curr.next = temp.next;
             }else{
-                curr.next = prev;
                 curr = curr.next;
-                prev = temp;
-                temp = temp.next;
             }
+            temp = temp.next;
         }
-        curr.next = prev;
         return dummy.next;
     }
 }
