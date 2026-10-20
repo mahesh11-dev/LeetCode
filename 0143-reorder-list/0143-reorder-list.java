@@ -33,25 +33,16 @@ class Solution {
         ListNode next = slow.next;
         slow.next = null;
         ListNode newHead = reverse(next);
-        ListNode curr = head;
         ListNode t2 = newHead;
         ListNode t1 = head;
         while(t1 != null && t2 != null){
-            if(curr != t1){
-                curr.next = t1;
-                t1 = t1.next;
-                curr = curr.next;
-            }else{
-                t1 = t1.next;
-            }
-            curr.next = t2;
-            t2 = t2.next;
-            curr = curr.next;
+            ListNode n1 = t1.next;
+            ListNode n2 = t2.next;
+            t1.next = t2;
+            t2.next = n1;
+            t1 = n1;
+            t2 = n2;
         }
-        if(t1 != null){
-            curr.next = t1;
-        }else{
-            curr.next = t2;
-        }
+        
     }
 }
