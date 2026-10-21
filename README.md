@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/mahesh11-dev/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/mahesh11-dev/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mahesh11-dev/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0989-add-to-array-form-of-integer](https://github.com/mahesh11-dev/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [0992-subarrays-with-k-different-integers](https://github.com/mahesh11-dev/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/mahesh11-dev/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/mahesh11-dev/LeetCode/tree/master/1140-stone-game-ii) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/mahesh11-dev/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mahesh11-dev/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/mahesh11-dev/LeetCode/tree/master/0877-stone-game) |
+| [0989-add-to-array-form-of-integer](https://github.com/mahesh11-dev/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1140-stone-game-ii](https://github.com/mahesh11-dev/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/mahesh11-dev/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/mahesh11-dev/LeetCode/tree/master/1510-stone-game-iv) |
