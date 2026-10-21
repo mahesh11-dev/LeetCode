@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/mahesh11-dev/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/mahesh11-dev/LeetCode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mahesh11-dev/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/mahesh11-dev/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1563-stone-game-v](https://github.com/mahesh11-dev/LeetCode/tree/master/1563-stone-game-v) |
 | [1572-matrix-diagonal-sum](https://github.com/mahesh11-dev/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/mahesh11-dev/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mahesh11-dev/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1406-stone-game-iii](https://github.com/mahesh11-dev/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/mahesh11-dev/LeetCode/tree/master/1510-stone-game-iv) |
+| [1512-number-of-good-pairs](https://github.com/mahesh11-dev/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1563-stone-game-v](https://github.com/mahesh11-dev/LeetCode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/mahesh11-dev/LeetCode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/mahesh11-dev/LeetCode/tree/master/1927-sum-game) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/mahesh11-dev/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/mahesh11-dev/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1386-cinema-seat-allocation](https://github.com/mahesh11-dev/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1512-number-of-good-pairs](https://github.com/mahesh11-dev/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mahesh11-dev/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mahesh11-dev/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mahesh11-dev/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/mahesh11-dev/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/mahesh11-dev/LeetCode/tree/master/0229-majority-element-ii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/mahesh11-dev/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1512-number-of-good-pairs](https://github.com/mahesh11-dev/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2029-stone-game-ix](https://github.com/mahesh11-dev/LeetCode/tree/master/2029-stone-game-ix) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/mahesh11-dev/LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mahesh11-dev/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
