@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/mahesh11-dev/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mahesh11-dev/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/mahesh11-dev/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/mahesh11-dev/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mahesh11-dev/LeetCode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mahesh11-dev/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/mahesh11-dev/LeetCode/tree/master/0645-set-mismatch) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/mahesh11-dev/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mahesh11-dev/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/mahesh11-dev/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/mahesh11-dev/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mahesh11-dev/LeetCode/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/mahesh11-dev/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/mahesh11-dev/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/mahesh11-dev/LeetCode/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/mahesh11-dev/LeetCode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/mahesh11-dev/LeetCode/tree/master/0412-fizz-buzz) |
 | [1927-sum-game](https://github.com/mahesh11-dev/LeetCode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mahesh11-dev/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
