@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/mahesh11-dev/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/mahesh11-dev/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1512-number-of-good-pairs](https://github.com/mahesh11-dev/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1539-kth-missing-positive-number](https://github.com/mahesh11-dev/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1563-stone-game-v](https://github.com/mahesh11-dev/LeetCode/tree/master/1563-stone-game-v) |
 | [1572-matrix-diagonal-sum](https://github.com/mahesh11-dev/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/mahesh11-dev/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/mahesh11-dev/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mahesh11-dev/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/mahesh11-dev/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/mahesh11-dev/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mahesh11-dev/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Math
 |  |
